@@ -10,7 +10,7 @@ I build AI agents, workflows, and enablement tools that are functional, transpar
 - Focused on education, partner enablement, and applied AI for learning design
 
 Recent builds:
-- [Marble Descent](https://github.com/1beebe/marble-descent): a tilt-to-roll phone game I built twice with Claude, and a case study on why a five-sentence prompt beat my multi-agent setup
+- [Marble Descent](https://github.com/1beebe/marble-descent): phone tilt Marble Madness ode; short prompt beat a long brief (playable on GitHub Pages). Live demo: https://1beebe.github.io/marble-descent/
 - [Beebe Qualitative Skills](https://github.com/1beebe/beebe-qualitative-skills): Claude Code skills for LLM-assisted qualitative research, completing my father's unfinished study
 - [Daily Product Pulse](https://github.com/1beebe/daily-product-pulse): daily product health snapshot to Slack, as a saved skill
 - [AI Prompt Library](https://1beebe.github.io/ai-prompt-library/): 55 prompts for B2B teams, live demo
